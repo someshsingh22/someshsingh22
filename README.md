@@ -1,6 +1,6 @@
 ### Hi there, I'm Somesh - aka [someshsingh22][website] 👋
 
-## I'm a senior year undergraduate student at BITS Goa.
+## I'm a junior year undergraduate student at BITS Goa.
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other researchers and creators
 - 🥅 2020 Goals: Contribute more to Open Source and Research projects
