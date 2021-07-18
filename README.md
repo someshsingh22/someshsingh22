@@ -5,7 +5,6 @@
 - 🔍 Exploring the intersection of NLP and Adversarial ML
 - 👯 I’m looking to collaborate with other researchers and creators
 - 🥅 2021 Goals: Contribute more to Open Source and Research projects!
-- [@someshsingh22](https://www.chess.com/member/someshsingh22) Playing chess in free time for fun! 
 
 ### Connect with me:
 
