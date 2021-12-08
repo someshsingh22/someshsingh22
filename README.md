@@ -1,6 +1,7 @@
 ### Hey there, I'm Somesh - aka [someshsingh22][website] 👋
 
 ## I'm a senior year undergraduate student at BITS Goa.
+- ⛏ Mining Adversaries from Text with and without data!
 - 🌱 I’m currently learning everything
 - 🔍 Exploring the intersection of NLP and Adversarial ML
 - 👯 I’m looking to collaborate with other researchers and creators
